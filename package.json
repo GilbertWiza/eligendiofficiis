@@ -1,0 +1,21 @@
+{
+  "name": "eligendiofficiis",
+  "version": "1.0.0",
+  "description": "Emscripten-compiled Javascript version of NaCl, the Networking and Cryptography library.",
+  "main": "lib/nacl.js",
+  "author": "JenniferUllrich",
+  "keywords": [
+    "consequatur",
+    "vero",
+    "voluptatem",
+    "networking",
+    "nacl"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertWiza/eligendiofficiis.git"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
